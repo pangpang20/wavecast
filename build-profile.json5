@@ -1,0 +1,56 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storeFile": "D:/data/codes/antennaPodHM_certs/keystore4antennapodhm.p12",
+          "storePassword": "000000185284E41D3AB9B6BD12AA1E2C3EEAD6555C744D3A323539242B0639EE27556587A25DE403",
+          "keyAlias": "releasekey",
+          "keyPassword": "00000018B69A83FEAC0F60952E9B8EEDA985957DEA927DFAE5C9DE957B1320EF3C0358986C2B4370",
+          "signAlg": "SHA256withECDSA",
+          "profile": "D:/data/codes/antennaPodHM_certs/profile4antennapodhmRelease.p7b",
+          "certpath": "D:/data/codes/antennaPodHM_certs/cert4antennapodhm.cer"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "5.0.0(12)",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wavecast",
+  "version": "1.0.0",
+  "modelVersion": "5.0.0",
+  "description": "WaveCast - Open source podcast manager for HarmonyOS",
+  "main": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.18"
+  }
+}

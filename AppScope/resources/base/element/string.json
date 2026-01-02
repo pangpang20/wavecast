@@ -1,0 +1,12 @@
+{
+    "string": [
+        {
+            "name": "app_name",
+            "value": "WaveCast"
+        },
+        {
+            "name": "app_description",
+            "value": "开源播客管理器"
+        }
+    ]
+}

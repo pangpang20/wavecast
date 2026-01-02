@@ -1,0 +1,136 @@
+{
+    "color": [
+        {
+            "name": "start_window_background",
+            "value": "#FFFFFF"
+        },
+        {
+            "name": "primary",
+            "value": "#5C6BC0"
+        },
+        {
+            "name": "primary_dark",
+            "value": "#3F51B5"
+        },
+        {
+            "name": "background",
+            "value": "#F5F5F5"
+        },
+        {
+            "name": "background_card",
+            "value": "#FFFFFF"
+        },
+        {
+            "name": "background_secondary",
+            "value": "#EEEEEE"
+        },
+        {
+            "name": "text_primary",
+            "value": "#000000"
+        },
+        {
+            "name": "text_secondary",
+            "value": "#666666"
+        },
+        {
+            "name": "text_tertiary",
+            "value": "#999999"
+        },
+        {
+            "name": "divider",
+            "value": "#E0E0E0"
+        },
+        {
+            "name": "button_primary",
+            "value": "#5C6BC0"
+        },
+        {
+            "name": "button_secondary",
+            "value": "#E0E0E0"
+        },
+        {
+            "name": "accent_green",
+            "value": "#4CAF50"
+        },
+        {
+            "name": "accent_red",
+            "value": "#FF5252"
+        },
+        {
+            "name": "accent_orange",
+            "value": "#FF9800"
+        },
+        {
+            "name": "search_background",
+            "value": "#FFFFFF"
+        },
+        {
+            "name": "progress_track",
+            "value": "#E0E0E0"
+        },
+        {
+            "name": "mini_player_background",
+            "value": "#4a4a6a"
+        },
+        {
+            "name": "text_on_primary",
+            "value": "#FFFFFF"
+        },
+        {
+            "name": "text_on_primary_secondary",
+            "value": "#AAAAAA"
+        },
+        {
+            "name": "delete_button_bg",
+            "value": "#FFEBEE"
+        },
+        {
+            "name": "delete_button_text",
+            "value": "#D32F2F"
+        },
+        {
+            "name": "badge_green_bg",
+            "value": "#E8F5E9"
+        },
+        {
+            "name": "background_light",
+            "value": "#F5F5F5"
+        },
+        {
+            "name": "text_primary_light",
+            "value": "#000000"
+        },
+        {
+            "name": "text_secondary_light",
+            "value": "#666666"
+        },
+        {
+            "name": "button_secondary_bg",
+            "value": "#F0F0F0"
+        },
+        {
+            "name": "border_color",
+            "value": "#E0E0E0"
+        },
+        {
+            "name": "primary_button_bg",
+            "value": "#EEF0FA"
+        },
+        {
+            "name": "primary_border",
+            "value": "#D0D5F0"
+        },
+        {
+            "name": "timer_active_bg",
+            "value": "#FFEDED"
+        },
+        {
+            "name": "timer_active_border",
+            "value": "#FFCACA"
+        },
+        {
+            "name": "shadow_color",
+            "value": "#40000000"
+        }
+    ]
+}
