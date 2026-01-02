@@ -5,13 +5,13 @@
         "name": "default",
         "type": "HarmonyOS",
         "material": {
-          "storeFile": "D:/data/codes/antennaPodHM_certs/keystore4antennapodhm.p12",
-          "storePassword": "000000185284E41D3AB9B6BD12AA1E2C3EEAD6555C744D3A323539242B0639EE27556587A25DE403",
+          "storeFile": "D:/data/codes/wavecast_certs/keystore4antennapodhm.p12",
+          "storePassword": "00000018677DFAB8402F3EDFAD73EB99BEFAEB58430D4B7D7AAFCE001E0F046C905751E09C002D40",
           "keyAlias": "releasekey",
-          "keyPassword": "00000018B69A83FEAC0F60952E9B8EEDA985957DEA927DFAE5C9DE957B1320EF3C0358986C2B4370",
+          "keyPassword": "00000018E9380DF23F44D35CBDF4F05C114B95918FC3ECAC0DA2A070F44CC01CF448854EE95BCCF4",
           "signAlg": "SHA256withECDSA",
-          "profile": "D:/data/codes/antennaPodHM_certs/profile4antennapodhmRelease.p7b",
-          "certpath": "D:/data/codes/antennaPodHM_certs/cert4antennapodhm.cer"
+          "profile": "D:/data/codes/wavecast_certs/profile4wavecastRelease.p7b",
+          "certpath": "D:/data/codes/wavecast_certs/cert4antennapodhm.cer"
         }
       }
     ],
